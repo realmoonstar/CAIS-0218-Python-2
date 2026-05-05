@@ -1,0 +1,57 @@
+movie,Pulp Fiction,1994,Crime Thriller
+movie,Saw,2004,Horror
+movie,Jaws,1976,Horror
+movie,The Matrix,1999,Sci-Fi Action
+movie,Die Hard,1988,Action
+movie,Jurassic Park,1993,Adventure
+movie,The Silence of the Lambs,1991,Thriller
+movie,The Terminator,1984,Sci-Fi Action
+movie,Alien,1979,Horror
+movie,Aliens,1986,Sci-Fi Action
+movie,The Thing,1982,Horror
+movie,Ghostbusters,1984,Comedy
+movie,Back to the Future,1985,Sci-Fi Comedy
+movie,The Dark Knight,2008,Superhero
+movie,Fight Club,1999,Drama
+movie,Goodfellas,1990,Crime
+movie,The Shawshank Redemption,1994,Drama
+movie,The Godfather,1972,Crime Drama
+movie,Predator,1987,Action
+movie,Robocop,1987,Sci-Fi Action
+movie,Total Recall,1990,Sci-Fi Action
+movie,The Fly,1986,Horror
+movie,Re-Animator,1985,Horror Comedy
+movie,Django Unchained,2011,Western Action
+book,Alexander and the Terrible@ Horrible@ No Good@ Very Bad Day,1972,Judith Viorst
+book,Harry Potter and the Sorcerers Stone,1997,J.K. Rowling
+book,The Hobbit,1937,J.R.R. Tolkien
+book,The Fellowship of the Ring,1954,J.R.R. Tolkien
+book,1984,1949,George Orwell
+book,Animal Farm,1945,George Orwell
+book,Fahrenheit 451,1953,Ray Bradbury
+book,The Shining,1977,Stephen King
+book,It,1986,Stephen King
+book,Dune,1965,Frank Herbert
+book,The Catcher in the Rye,1951,J.D. Salinger
+book,To Kill a Mockingbird,1960,Harper Lee
+book,The Great Gatsby,1925,F. Scott Fitzgerald
+book,Frankenstein,1818,Mary Shelley
+book,Dracula,1897,Bram Stoker
+book,The Road,2006,Cormac McCarthy
+book,Jurassic Park,1990,Michael Crichton
+tv,The Boys,2019,5
+tv,Breaking Bad,2008,5
+tv,Better Call Saul,2015,6
+tv,The Sopranos,1999,6
+tv,Stranger Things,2016,5
+tv,The Office,2005,9
+tv,Parks and Recreation,2009,7
+tv,Seinfeld,1989,9
+tv,The Simpsons,1989,36
+tv,Futurama,1999,12
+tv,South Park,1997,27
+tv,The X-Files,1993,11
+tv,Buffy the Vampire Slayer,1997,7
+tv,Lost,2004,6
+tv,The Walking Dead,2010,11
+tv,Black Mirror,2011,7
