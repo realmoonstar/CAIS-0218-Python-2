@@ -1,3 +1,6 @@
+# Defines a BandMember with first name, last name, instrument, and date of birth
+# includes getters and setters with validation, calculates age, and formats member info in __str__.
+
 from datetime import date
 
 class BandMember:
