@@ -1,3 +1,7 @@
+# Manages a media database of Movies, Books, and TV Shows,loads data from data.txt file, allows listing,
+# searching, deleting, and adding items, rewrites the file after changes, and displays statistics
+# such as total items, average release year, and oldest/newest entries.
+
 class Media:
     def __init__(self, title, year):
         self.title = title
