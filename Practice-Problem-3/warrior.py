@@ -1,3 +1,7 @@
+# Defines Warrior and Mage classes that inherit from Character and add armor or mana with custom methods
+# and overrides also defines a Guild class that manages members, supports adding/removing by name,
+# and displays all members.
+
 #import parent class from problem 1
 from character import character
 
