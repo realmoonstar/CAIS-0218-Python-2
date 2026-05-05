@@ -1,4 +1,4 @@
-#problem 2
+# Prints the bill and the total cost including 10%, 15%, and 20% tip amounts.
 def tipCalc(billAmount):
     print("Bill: $"+ str(billAmount))
     tenTip = billAmount * 0.10
