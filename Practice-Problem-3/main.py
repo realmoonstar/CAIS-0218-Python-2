@@ -1,3 +1,7 @@
+# Runs the main program for Practice Problem 
+#creates Character, Warrior, Mage, and Archer objects,  a battle round, displays class‑specific details, adds all characters to a Guild, and prints
+# the guild and its members.
+
 from character import character
 from warrior import warrior,mage, guild
 from attack import archer
