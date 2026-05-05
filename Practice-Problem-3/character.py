@@ -1,3 +1,6 @@
+# Defines a Character with name, class, level, and health, includes getters/setters with validation,
+# an attack method, and custom actions taking dam.., heal, level up.
+
 #char class problem 1
 class character:
     def __init__(self, name, character_class, level, health):
