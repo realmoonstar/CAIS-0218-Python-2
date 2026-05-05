@@ -1,3 +1,5 @@
+#Band's name, year formed, genres, and members can add or remove members by name, and calculate the average age of members.
+
 class Band:
 
     #Name : String
